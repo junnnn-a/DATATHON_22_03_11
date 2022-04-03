@@ -13,11 +13,11 @@
 ### 📝 데이터 소개 📝
 - DACON '전력사용량 예측 AI 경진대회' 에서 사용했던 데이터
   - https://dacon.io/competitions/official/235736/overview/description
-- 1. train.csv
+  1. train.csv
   - 60개 건물들의 2020년 6월 1일 부터 2020년 8월 24일까지의 데이터 
   - 1시간 단위로 제공
-- 2. test.csv
+  2. test.csv
   - 60개 건물들의 2020년 8월 25일 부터 2020년 8월 31일까지의 데이터
   - 3시간 단위로 제공(강수량의 경우 6시간 단위로 제공, 예보데이터)
-- 3. sample_submission.csv
+  3. sample_submission.csv
   - sample_submission 데이터 
