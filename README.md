@@ -1,10 +1,10 @@
-# 📊DATATON📊
+# 📊DATATHON📊
 ## 일시 : 2022_03_08 ~ 2022_03_11
 ----------------------------------------------------------------
 ### 팀명 : 에너지 솔루션 🔋
 ### 팀원 : 정준아, 윤제형, 조미경
 ----------------------------------------------------------------
-## 🌟DATATON의 목적 & 팀 각오🌟
+## 🌟DATATHON의 목적 & 팀 각오🌟
 - 목적
   - 아이펠 노드를 공부하면서 데이터 전처리의 중요성을 많이 느끼고 있다.
   - 이번 데이터톤을 통해서 대회에서 사용되는 어떤 데이터인지! 어떻게 데이터를 처리하면 좋을 지에 대해서 고민해보고 스스로 경험 해보는 시간이다.
@@ -29,7 +29,7 @@
 | DATE | PLAN | LINK |
 | --------- | ---------------------- | ---------------------- |
 | 22.03.08 (화) | 팀명, 각오, 우리의 목표 정하기 |  |
-| 22.03.08 (화) | 주어진 rawdata를 살펴보면서 brainstorming해 보기 | 메모장에 brainstorming - [🗃️](https://github.com/junnnn-a/DATATON_22_03_11/blob/main/%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EB%B0%8D.txt) |
+| 22.03.08 (화) | 주어진 rawdata를 살펴보면서 brainstorming해 보기 | 메모장에 brainstorming - [🗃️](https://github.com/junnnn-a/DATATHON_22_03_11/blob/main/%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EB%B0%8D.txt) |
 | 22.03.08 (화) | 각자 살펴 본 것을 공유하면서 데이터를 어떤 방향으로 가공할지 계획짜기 |  |
 | 22.03.08 (화) | 데이터 전처리, 군집화 |  |
 
@@ -47,8 +47,8 @@
 
 | DATE | PLAN | LINK |
 | --------- | ---------------------- | ---------------------- |
-| 22.03.11 (금) | 9:30까지 완성된 제출파일을( .ipynb) 깃허브에 올리고 깃허브 링크제출하기 | 완성본 - [🗃️](https://github.com/junnnn-a/DATATON_22_03_11/blob/main/code/Dataton_finished_version.ipynb) |
-| 22.03.11 (금) | 피그마에 우리 조 전시물 소개카드 작성 (padlet에 작성) | padlt_imag - [🗃️](https://github.com/junnnn-a/DATATON_22_03_11/blob/main/images/padlet.png) |
+| 22.03.11 (금) | 9:30까지 완성된 제출파일을( .ipynb) 깃허브에 올리고 깃허브 링크제출하기 | 완성본 - [🗃️](https://github.com/junnnn-a/DATATHON_22_03_11/blob/main/code/Dataton_finished_version.ipynb) |
+| 22.03.11 (금) | 피그마에 우리 조 전시물 소개카드 작성 (padlet에 작성) | padlt_imag - [🗃️](https://github.com/junnnn-a/DATATHON_22_03_11/blob/main/images/padlet.png) |
 | 22.03.11 (금) | 다른 조들 전시 작품 구경 및 Q&A 시간 | 모든 캠퍼스가 참여할 수 있는 메타버스 공간 사용(Gather and ZEP) |
 | 22.03.11 (금) | 발표 | 모든 캠퍼스가 참여할 수 있는 메타버스 공간 사용(Gather and ZEP) |
 ----------------------------------------------------------------
